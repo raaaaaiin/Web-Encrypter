@@ -1,0 +1,20 @@
+c:\users\zerk\documents\visual studio 2010\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+c:\users\zerk\documents\visual studio 2010\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+c:\users\zerk\documents\visual studio 2010\Projects\WindowsApplication7\WindowsApplication7\bin\Debug\WindowsApplication7.xml
+c:\users\zerk\documents\visual studio 2010\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.Form1.resources
+c:\users\zerk\documents\visual studio 2010\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.Resources.resources
+c:\users\zerk\documents\visual studio 2010\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.vbproj.GenerateResource.Cache
+c:\users\zerk\documents\visual studio 2010\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.exe
+c:\users\zerk\documents\visual studio 2010\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.xml
+c:\users\zerk\documents\visual studio 2010\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication7.pdb
+E:\Portfolio\Programs\Encryptor\WindowsApplication7\obj\x86\Debug\WindowsApplication7.exe
+E:\Portfolio\Programs\Encryptor\WindowsApplication7\obj\x86\Debug\WindowsApplication7.xml
+E:\Portfolio\Programs\Encryptor\WindowsApplication7\obj\x86\Debug\WindowsApplication7.pdb
+E:\Portfolio\Programs\Encryptor\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+E:\Portfolio\Programs\Encryptor\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+E:\Portfolio\Programs\Encryptor\WindowsApplication7\bin\Debug\WindowsApplication7.xml
+E:\Portfolio\Programs\Encryptor\WindowsApplication7\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Portfolio\Programs\Encryptor\WindowsApplication7\obj\x86\Debug\WindowsApplication7.Form1.resources
+E:\Portfolio\Programs\Encryptor\WindowsApplication7\obj\x86\Debug\WindowsApplication7.Resources.resources
+E:\Portfolio\Programs\Encryptor\WindowsApplication7\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Portfolio\Programs\Encryptor\WindowsApplication7\obj\x86\Debug\GenerateResource.write.1.tlog
